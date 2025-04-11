@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+statsmodels
+scipy
+jupyter
+plotly
+shap
+sentence-transformers==2.2.0
+transformers==4.24.0
+torch==1.12.1
